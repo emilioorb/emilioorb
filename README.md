@@ -24,7 +24,7 @@
 
 <br>
 
-<p>
+<p align="center">
   <em>Software Engineer at <a href="https://somosdual.org/">University Invenio</a>
     <img src="https://www.svgrepo.com/show/405749/graduation-cap.svg" width="18">
     <br>
