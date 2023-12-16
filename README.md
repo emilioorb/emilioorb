@@ -1,6 +1,6 @@
 <div align="center">
-    <img align="center" src="./images/react.svg" alt="React.JS" height="100px" width="110px" />   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="./images/react.svg" alt="React.JS" height="100px" width="110px" />   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="./images/typescript.svg" alt="Typescript" height="100px" width="100px" />
 </div>
 
@@ -9,11 +9,9 @@
     <a href="https://www.linkedin.com/in/emiliojrb/" target="blank"> 
         <img src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px"> 
     </a>
-    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
     <a href="https://twitter.com/_emiliojrb" target="blank"> 
         <img src="./images/twitter.svg" alt="_emiliojrb" height="28px" width="28px"> 
     </a>
-    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
     <a href="https://instagram.com/_emiliorb" target="blank"> 
         <img src="./images/instagram.svg" alt="_emiliorb" height="28px" width="28px"> 
     </a>
