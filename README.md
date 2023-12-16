@@ -1,13 +1,7 @@
 <div align="center">
-  <a href="https://es.react.dev/" target="_blank" style="margin-right:75px">
     <img align="center" src="./images/react.svg" alt="React.JS" height="100px" width="110px" />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" style="margin-right:75px">
     <img align="center" src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" src="./images/typescript.svg" alt="Typescript" height="100px" width="100px" />
-  </a>
 </div>
 
 <div align="center">
@@ -50,7 +44,7 @@ I am a student of Information Technology, passionate about web and mobile develo
   </tr>
 
   <tr>
-    <td align="center">
+    <td width="100%">
       <a href="https://emiliojrb26.github.io/Pokedex/">
         <img src="./images/pokedex.png" alt="Pokedex Project" width="200px">
       </a>
