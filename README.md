@@ -49,6 +49,13 @@ I am a student of Information Technology, passionate about web and mobile develo
       <a href="https://emiliojrb26.github.io/Pokedex/">
         <img src="./images/pokedex.png">
       </a>
+         <a href="https://emiliojrb26.github.io/Pokedex/">
+        <strong>View project</strong>
+      </a>
+      <span style="margin-right: 20px;">&nbsp;&nbsp;</span>
+      <a href="https://github.com/emiliojrb26/Pokedex">
+        <strong>Repository</strong>
+      </a>
     </td>
   </tr>
 
