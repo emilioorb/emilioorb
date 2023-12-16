@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align:center>
   <a href="https://es.react.dev/" target="_blank" style="margin-right:75px">
     <img  src="./images/react.svg" alt="React.JS" height="100px" width="110px" />
   </a>
