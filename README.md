@@ -39,26 +39,44 @@ I am a student of Information Technology, passionate about web and mobile develo
 
 ## Projects
 
-<table width="100%">
-  <tr>
-    <th>
-        Pokédex
-    </th>
-  </tr>
 
+<table style="width:100%">
   <tr>
-    <td align="center">
+    <td>
+      <a href="https://youtu.be/Kp4Mvapo5kc">
+        <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/-pWSQYpkkjk">
+        <img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/3GymExBkKjE">
+        <img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+      </a>
+    </td>
+  </tr>
+  <!-- Repite las filas según sea necesario -->
+
+  <!-- Aquí puedes agregar tu propia tabla -->
+  <tr>
+    <td colspan="3" align="center">
+      <h3>Pokédex</h3>
       <a href="https://emiliojrb26.github.io/Pokedex/">
         <img src="./images/pokedex.png" alt="Pokedex Project" width="200px">
       </a>
       <br>
       <a href="https://emiliojrb26.github.io/Pokedex/">
-        <strong>View project</strong>
+        <strong>Ver proyecto</strong>
       </a>
       <span style="margin-right: 20px;">&nbsp;&nbsp;</span>
       <a href="https://github.com/emiliojrb26/Pokedex">
-        <strong>Repository</strong>
+        <strong>Repositorio</strong>
       </a>
     </td>
   </tr>
+  <!-- Fin de tu tabla personalizada -->
 </table>
+
