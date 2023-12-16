@@ -42,9 +42,7 @@ I am a student of Information Technology, passionate about web and mobile develo
 <table width="100%">
   <tr>
     <th>
-      <a href="https://emiliojrb26.github.io/Pokedex/" target="_blank">
         Pokédex
-      </a>
     </th>
   </tr>
 
