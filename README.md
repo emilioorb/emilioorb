@@ -5,17 +5,20 @@
 </div>
 
 <div align="center">
-  <h3>¡Hey! I'm Emilio Rodríguez👋🏼</h3>
-  <a href="https://www.linkedin.com/in/emiliojrb/" target="_blank" style="margin-right:5px">
-    <img align="center" src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/_emiliojrb" target="_blank" style="margin-right:5px">
-    <img align="center" src="./images/twitter.svg" alt="_emiliojrb" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/_emiliorb" target="_blank">
-    <img align="center" src="./images/instagram.svg" alt="_emiliorb" height="28px" width="28px" />
-  </a>
+    <h3>¡Hey! I'm Emilio Rodríguez👋🏼</h3>
+    <a href="https://www.linkedin.com/in/emiliojrb/" target="blank"> 
+        <img src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px"> 
+    </a>
+    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
+    <a href="https://twitter.com/_emiliojrb" target="blank"> 
+        <img src="./images/twitter.svg" alt="_emiliojrb" height="28px" width="28px"> 
+    </a>
+    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
+    <a href="https://instagram.com/_emiliorb" target="blank"> 
+        <img src="./images/instagram.svg" alt="_emiliorb" height="28px" width="28px"> 
+    </a>
 </div>
+
 
 <br>
 
@@ -34,7 +37,7 @@ I am a student of Information Technology, passionate about web and mobile develo
 
 ## Projects
 
-<table align="center">
+<table width="100%">
   <tr>
     <th>
       <a href="https://emiliojrb26.github.io/Pokedex/" target="_blank">
@@ -44,7 +47,7 @@ I am a student of Information Technology, passionate about web and mobile develo
   </tr>
 
   <tr>
-    <td width="100%">
+    <td align="center">
       <a href="https://emiliojrb26.github.io/Pokedex/">
         <img src="./images/pokedex.png" alt="Pokedex Project" width="200px">
       </a>
