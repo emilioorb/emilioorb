@@ -42,6 +42,9 @@ I am a student of Information Technology, passionate about web and mobile develo
 
 <table style="width:100%">
   <tr>
+    <th style="text-align:center;">Pokédex</th>
+  </tr>
+  <tr>
     <td>
       <a href="https://emiliojrb26.github.io/Pokedex/">
         <img src="./images/pokedex.png">
