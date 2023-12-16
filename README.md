@@ -1,28 +1,26 @@
-<div align:center>
+<div align="center">
   <a href="https://es.react.dev/" target="_blank" style="margin-right:75px">
-    <img  src="./images/react.svg" alt="React.JS" height="100px" width="110px" />
+    <img align="center" src="./images/react.svg" alt="React.JS" height="100px" width="110px" />
   </a>
   <a href="https://nodejs.org/en" target="_blank" style="margin-right:75px">
-    <img  src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />
+    <img align="center" src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img  src="./images/typescript.svg" alt="Typescript" height="100px" width="100px" />
+    <img align="center" src="./images/typescript.svg" alt="Typescript" height="100px" width="100px" />
   </a>
 </div>
 
-<div style="text-align:center;" >
-    <h3>¡Hey! I'm Emilio Rodríguez👋🏼</h3>
-    <a href="https://www.linkedin.com/in/emiliojrb/" target="blank"> 
-        <img src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px"> 
-    </a>
-    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
-    <a href="https://twitter.com/_emiliojrb" target="blank"> 
-        <img src="./images/twitter.svg" alt="_emiliojrb" height="28px" width="28px"> 
-    </a>
-    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
-    <a href="https://instagram.com/_emiliorb" target="blank"> 
-        <img src="./images/instagram.svg" alt="_emiliorb" height="28px" width="28px"> 
-    </a>
+<div align="center">
+  <h3>¡Hey! I'm Emilio Rodríguez👋🏼</h3>
+  <a href="https://www.linkedin.com/in/emiliojrb/" target="_blank" style="margin-right:5px">
+    <img align="center" src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/_emiliojrb" target="_blank" style="margin-right:5px">
+    <img align="center" src="./images/twitter.svg" alt="_emiliojrb" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/_emiliorb" target="_blank">
+    <img align="center" src="./images/instagram.svg" alt="_emiliorb" height="28px" width="28px" />
+  </a>
 </div>
 
 <br>
@@ -42,13 +40,17 @@ I am a student of Information Technology, passionate about web and mobile develo
 
 ## Projects
 
- <table width="100%">
+<table align="center">
   <tr>
-    <th style="text-align:center;">Pokédex</th>
+    <th>
+      <a href="https://emiliojrb26.github.io/Pokedex/" target="_blank">
+        Pokédex
+      </a>
+    </th>
   </tr>
 
   <tr>
-    <td>
+    <td align="center">
       <a href="https://emiliojrb26.github.io/Pokedex/">
         <img src="./images/pokedex.png" alt="Pokedex Project" width="200px">
       </a>
