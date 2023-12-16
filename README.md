@@ -1,12 +1,12 @@
 <div align="center">
     <img align="center" src="./images/react.svg" alt="React.JS" height="100px" width="110px" />   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="./images/typescript.svg" alt="Typescript" height="100px" width="100px" />
 </div>
 
-<div style="text-align:center;" >
+<div align:center;" >
     <h3>¡Hey! I'm Emilio Rodríguez👋🏼</h3>
     <a href="https://www.linkedin.com/in/emiliojrb/" target="blank"> 
         <img src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px"> 
