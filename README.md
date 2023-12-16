@@ -43,6 +43,7 @@ I am a student of Information Technology, passionate about web and mobile develo
 <table style="width:100%">
   <tr>
     <th style="text-align:center;">Pokédex</th>
+    <th style="text-align:center;">Pokédex</th>
   </tr>
   <tr>
     <td>
@@ -53,7 +54,21 @@ I am a student of Information Technology, passionate about web and mobile develo
          <a href="https://emiliojrb26.github.io/Pokedex/">
         <strong>View project</strong>
       </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/emiliojrb26/Pokedex">
+        <strong>Repository</strong>
+      </a>
+    </div>
+    </td>
+      <td>
+      <a href="https://emiliojrb26.github.io/Pokedex/">
+        <img src="./images/pokedex.png">
+      </a>
+        <div align="center">
+         <a href="https://emiliojrb26.github.io/Pokedex/">
+        <strong>View project</strong>
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/emiliojrb26/Pokedex">
         <strong>Repository</strong>
       </a>
