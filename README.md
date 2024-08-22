@@ -1,11 +1,9 @@
 
 <!-- Banner -->
-
 <div align="center">
-  <img height="105" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light")
+  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light")
   "/>
 </div>
-<TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}>
 <!-- Titulo/badges -->
 <h3 align="center">¡Hey! I'm Emilio Rodríguez👋🏼</h3>
 
