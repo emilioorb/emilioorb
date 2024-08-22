@@ -1,3 +1,10 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - master
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -6,12 +13,14 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
+
       - name: Create README.md
         uses: actions-js/profile-readme@master
         with:
-          username: <your username>
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: emiliojrb26
+          github_token: ${{ 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 }}
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ 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 }}
