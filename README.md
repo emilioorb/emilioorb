@@ -1,9 +1,3 @@
-
-<!-- Banner -->
-<div align="center">
-  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light")
-  "/>
-</div>
 <!-- Titulo/badges -->
 <h3 align="center">¡Hey! I'm Emilio Rodríguez👋🏼</h3>
 
