@@ -1,4 +1,3 @@
-<!-- Titulo/badges -->
 <h3 align="center">¡Hey! I'm Emilio Rodríguez👋🏼</h3>
 
 <div align="center">
