@@ -82,4 +82,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-GITHUB_ACTIVITY:{"rows": 5, "raw": true}
+<!-- GITHUB_ACTIVITY:{"rows": 5, "raw": true} -->
