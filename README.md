@@ -7,7 +7,7 @@
 <a href="https://emiliorb.com">
   <img src="https://img.shields.io/badge/Sitio web-2F3134?style=for-the-badge&logo=aboutdotme&logoColor=white" height="25" alt="Sitio Web"  />
   </a>
-<a href="https://emiliorb.com">
+<a href="mailto:emiliorb26@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="twitter logo"  />
   </a>
 </div>
