@@ -1,58 +1,85 @@
+
+<!-- Banner -->
+
 <div align="center">
-    <img align="center" src="./images/react.svg" alt="React.JS" height="100px" width="110px" />   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="./images/nodejs.svg" alt="Node.JS" height="100px" width="90px" />   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="./images/typescript.svg" alt="Typescript" height="100px" width="100px" />
+  <img height="105" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light")
+  "/>
 </div>
+<TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}>
+<!-- Titulo/badges -->
+<h3 align="center">¡Hey! I'm Emilio Rodríguez👋🏼</h3>
+
 <div align="center">
-    <h3>¡Hey! I'm Emilio Rodríguez👋🏼</h3>
-    <a href="https://www.linkedin.com/in/emiliojrb/" target="blank"> 
-        <img src="./images/linkedin.svg" alt="emiliojrb" height="28px" width="28px"> 
-    </a>
-    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
-    <a href="https://twitter.com/_emiliojrb" target="blank"> 
-        <img src="./images/twitter.svg" alt="_emiliojrb" height="28px" width="28px"> 
-    </a>
-    &nbsp;&nbsp;&nbsp; <!-- Puedes ajustar la cantidad de espacios según sea necesario -->
-    <a href="https://instagram.com/_emiliorb" target="blank"> 
-        <img src="./images/instagram.svg" alt="_emiliorb" height="28px" width="28px"> 
-    </a>
+<a href="https://www.linkedin.com/in/emiliojrb/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+<a href="https://emiliorb.com">
+  <img src="https://img.shields.io/badge/Sitio web-2F3134?style=for-the-badge&logo=aboutdotme&logoColor=white" height="25" alt="Sitio Web"  />
+  </a>
+<a href="https://emiliorb.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="twitter logo"  />
+  </a>
 </div>
+
 <br>
+
+<!-- Subs -->
+
 <p>
-  <em>Software Engineer at <a href="https://somosdual.org/">University Invenio</a>
+  <a>IT at <a href="https://somosdual.org/">University Invenio</a>
     <img src="https://www.svgrepo.com/show/405749/graduation-cap.svg" width="18">
     <br>
-    <strong>Frontend Developer</strong> | React | Node | Typescript
+    <strong>Software Engineer</strong> | Specialized in Astro, React, JavaScript/TypeScript, Node and Python
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </em>
+  </a>
 </p>
 
-I am a student of Information Technology, passionate about web and mobile development, with high expectations for learning. I am a very polite and respectful person, always willing to help and learn. As a web developer, my main expertise lies in the client-side, using the React framework. Additionally, I have skills on the server-side, utilizing Node.js.
+<br>
 
-<img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250">
+<!-- Descripción -->
 
-## Projects
+<p align="left">I am a passionate software engineer with a strong focus on modern technologies such as Astro, React, JavaScript/TypeScript, Node, and Python. I specialize in frontend development, designing, and developing mobile and web applications.</p>
+<p align="left">One of my greatest motivations is learning. I enjoy facing new challenges and growing in my career, constantly exploring the endless possibilities that technology offers.</p>
 
-<table style="width:100%">
-  <tr>
-    <th style="text-align:center;">Pokédex</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://emiliojrb26.github.io/Pokedex/">
-        <img src="./images/pokedex.png">
-      </a>
-        <div align="center">
-         <a href="https://emiliojrb26.github.io/Pokedex/">
-        <strong>View project</strong>
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/emiliojrb26/Pokedex">
-        <strong>Repository</strong>
-      </a>
-    </div>
-    </td>
-  </tr>
-</table>
+<!-- Lenguajes y herramientas -->
+
+###
+<h3 align="center">🛠 Language and tools</h3>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+</div>
+
+GITHUB_ACTIVITY:{"rows": 5, "raw": true}
