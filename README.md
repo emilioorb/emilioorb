@@ -66,6 +66,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
