@@ -22,7 +22,7 @@
   <a>IT at <a href="https://somosdual.org/">University Invenio</a>
     <img src="https://www.svgrepo.com/show/405749/graduation-cap.svg" width="18">
     <br>
-    <strong>Software Engineer</strong> | Specialized in Astro, React, JavaScript/TypeScript, Node and Python
+    <strong>Full-Stack Developer</strong> | Angular & React | NestJS, Express | Database Management
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </a>
 </p>
@@ -31,8 +31,8 @@
 
 <!-- Descripción -->
 
-<p align="left">I am a passionate software engineer with a strong focus on modern technologies such as Astro, React, JavaScript/TypeScript, Node, and Python. I specialize in frontend development, designing, and developing mobile and web applications.</p>
-<p align="left">One of my greatest motivations is learning. I enjoy facing new challenges and growing in my career, constantly exploring the endless possibilities that technology offers.</p>
+<p align="left">I am a TI Engineer, specialized in software development, with strong experience in creating scalable and high-performance web and mobile applications, covering both frontend and backend. My expertise includes the use of frameworks like React, Angular, and Astro to design dynamic and efficient user interfaces, as well as React Native and Expo for the development of cross-platform mobile applications. On the backend, I have worked with NestJS and Express to build robust and scalable APIs, complemented by effective database management, allowing me to provide integrated and optimized solutions.</p>
+<p align="left">My greatest motivation is continuous learning. I am passionate about facing new challenges that allow me to grow professionally, exploring the endless possibilities technology offers to design and implement innovative and impactful solutions.</p>
 
 <!-- Lenguajes y herramientas -->
 
