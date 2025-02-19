@@ -17,7 +17,7 @@
 <!-- Subs -->
 
 <p>
-  <a>IT at <a href="https://somosdual.org/">University Invenio</a>
+  <a>IT Engineer at <a href="https://somosdual.org/">University Invenio</a>
     <img src="https://www.svgrepo.com/show/405749/graduation-cap.svg" width="18">
     <br>
     <strong>Full-Stack Developer</strong> | Angular & React | NestJS, Express | Database Management
