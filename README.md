@@ -1,84 +1,29 @@
-<h3 align="center">¡Hey! I'm Emilio Rodríguez👋🏼</h3>
+# Emilio Rodríguez
 
-<div align="center">
-<a href="https://www.linkedin.com/in/emiliojrb/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-<a href="https://emiliorb.com">
-  <img src="https://img.shields.io/badge/Sitio web-2F3134?style=for-the-badge&logo=aboutdotme&logoColor=white" height="25" alt="Sitio Web"  />
-  </a>
-<a href="mailto:emiliorb26@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="twitter logo"  />
-  </a>
-</div>
+**Founder & CEO at [Arclo Systems](https://arclosystems.com)** · San José, Costa Rica
 
-<br>
+I build software other people use daily. I lead the architecture and the team, and I still write the code.
 
-<!-- Subs -->
+## What I'm building
 
-<p>
-  <a>IT Engineer at <a href="https://somosdual.org/">University Invenio</a>
-    <img src="https://www.svgrepo.com/show/405749/graduation-cap.svg" width="18">
-    <br>
-    <strong>Full-Stack Developer</strong> | Angular & React | NestJS, Express | Database Management
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </a>
-</p>
+**[Kodi](https://holakodi.com)** — Prep app for university admission, national tests and COSEVI licenses. Design, development, infrastructure and release.
+`React Native` `NestJS` `PostgreSQL`
 
-<br>
+**[Transportes Acaya](https://acaya.app)** — They ran on a spreadsheet nobody could edit at the same time. Now it is the system they invoice from: every trip has a status and a calculated fare, third-party settlements and purchase orders come out of the same place, and each user sees what their role allows. Over 1,500 trips managed.
+`Next.js` `NestJS` `PostgreSQL` `Prisma`
 
-<!-- Descripción -->
+**MiBrete** — Our own product, in development. Details when it ships.
 
-<p align="left">I am a TI Engineer, specialized in software development, with strong experience in creating scalable and high-performance web and mobile applications, covering both frontend and backend. My expertise includes the use of frameworks like React, Angular, and Astro to design dynamic and efficient user interfaces, as well as React Native and Expo for the development of cross-platform mobile applications. On the backend, I have worked with NestJS and Express to build robust and scalable APIs, complemented by effective database management, allowing me to provide integrated and optimized solutions.</p>
-<p align="left">My greatest motivation is continuous learning. I am passionate about facing new challenges that allow me to grow professionally, exploring the endless possibilities technology offers to design and implement innovative and impactful solutions.</p>
+## Before this
 
-<!-- Lenguajes y herramientas -->
+**Novelteak** · 2024–2025 — I was part of the team that built the offline-first app crews use to run field work with no signal, and the multi-tenant platform behind it. I handled the per-area modules, role-based access control and the technical documentation. Both run in Costa Rica and Nicaragua.
 
-###
-<h3 align="center">🛠 Language and tools</h3>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-</div>
+**GSIT** · 2022–2023 — I led Scrum projects for banking, retail, tourism and industry clients across Costa Rica, Nicaragua and Guatemala. I built the test plans, the automated suites and the QA standard the team used afterwards.
+
+## What I work with
+
+TypeScript end to end. Next.js and Astro on the web, React Native and Expo on mobile, NestJS and Prisma on the back, PostgreSQL underneath. DigitalOcean for infrastructure.
+
+## Elsewhere
+
+[emiliorb.com](https://emiliorb.com) · [LinkedIn](https://www.linkedin.com/in/emiliojrb/) · [X](https://x.com/_emiliojrb) · [emiliorb@arclosystems.com](mailto:emiliorb@arclosystems.com)
