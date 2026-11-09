@@ -48,7 +48,7 @@ CRM, projects, finance, contracts, documents, tickets, tasks, procurement and a 
 
 ## Projects
 
-### [Electronic Invoicing API](https://emiliorb.com/proyectos/api-facturacion)
+### [Electronic Invoicing API](https://emiliorb.com/proyectos/api-facturacion) (private repo)
 
 In-house API for Costa Rica's Hacienda v4.4 with no third-party SDKs.
 
